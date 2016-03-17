@@ -27,4 +27,4 @@ A completely new template. <br> <br>
 # v1.0
 * Personalized the template provided by BootStrap. <br>
 * The pictures are clickable and open up a window to show more information about the project. <br> <br>
-<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/v1.1.png" width="366" height ="623" />
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/v1.0.png" width="366" height ="623" />
