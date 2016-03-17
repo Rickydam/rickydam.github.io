@@ -10,7 +10,7 @@ http://startbootstrap.com/template-overviews/freelancer/ <br> <br>
 A completely new template. <br> <br>
 <img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Home.png" width="410" height ="253" /> 
 <br> <br>
-<img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Projects.png" width="405" height ="605" />
+<img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Projects.png" width="366" height ="685" />
 <br> <br>
 <img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Resume.png" width="406" height ="406" />
 <br> <br>
