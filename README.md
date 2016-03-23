@@ -6,15 +6,19 @@ http://www.free-css.com/free-css-templates/page193/spot <br> <br>
 Old template called "Freelancer" by Apache 2.0 (Start Bootstrap). <br>
 http://startbootstrap.com/template-overviews/freelancer/ <br> <br>
 
+# v1.2.1
+An improved 'Resume' section. <br> <br>
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Resume(v1.2.1).png" width="407" height ="279" /> 
+
 # v1.2
 A completely new template. <br> <br>
-<img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Home.png" width="410" height ="253" /> 
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Home(v1.2).png" width="410" height ="253" /> 
 <br> <br>
-<img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Projects.png" width="366" height ="685" />
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Projects(v1.2).png" width="366" height ="685" />
 <br> <br>
-<img src="https://github.com/Rickydam/Rickydam.github.io/blob/master/screenshots/Resume.png" width="406" height ="406" />
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Resume(v1.2).png" width="406" height ="406" />
 <br> <br>
-<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/About.png" width="410" height ="253" />
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/About(v1.2).png" width="410" height ="253" />
 <br> <br>
 
 # v1.1
