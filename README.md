@@ -10,7 +10,15 @@ http://startbootstrap.com/template-overviews/freelancer/ <br> <br>
 * More efficient spacing
 * Added footer update date
 * Added new PDF button
+<br>
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Home(v1.2.2).png" width="366" height ="234" /> 
+<br>
+<img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Projects(v1.2.2).png" width="366" height ="686" />
+<br> <br>
+<https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Resume(v1.2.2).png" width="366" height ="246" />
+<br> <br>
 <img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Home(v1.2.2).png" width="234" height ="366" />
+<br> <br>
 <img src="https://github.com/Rickydam/rickydam.github.io/blob/master/screenshots/Home(v1.2.2).png" width="234" height ="366" />
 
 # v1.2.1
