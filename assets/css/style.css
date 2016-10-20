@@ -464,3 +464,7 @@ body {
 hr {
   color: #000000;
 }
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
