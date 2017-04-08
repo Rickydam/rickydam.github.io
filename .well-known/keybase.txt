@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/rickydam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rickydam.com
+  * I am rickydam (https://keybase.io/rickydam) on keybase.
+  * I have a public key with fingerprint 90C8 3D6B 8F16 E3CB 8B5E  FFF1 E1F9 8FD5 A024 2047
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120cf8e883d448163c7e1a4f98c1d93aae0bd411355aba4720ffd288a41b90d17da0a",
+            "fingerprint": "90c83d6b8f16e3cb8b5efff1e1f98fd5a0242047",
+            "host": "keybase.io",
+            "key_id": "e1f98fd5a0242047",
+            "kid": "010183ed156ef95232ea260250c49ee41cea5afe00b0cfa900d75d55a09350d8e4e40a",
+            "uid": "0f01ca84b81df760bb127a753901f919",
+            "username": "rickydam"
+        },
+        "service": {
+            "hostname": "rickydam.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1491659852,
+    "expire_in": 157680000,
+    "prev": "6b730432f7b087690c9cfcc11ea6993e9a8869638a8f2303dfab66a6a0e42e28",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGOZrZdgsVwekRkzmosAYA+d+n7uQDpQg4OQIRuWU67n3ngsX
+ZHfdD2RFiiIZlUKyoCHFQG1LHcd2SgwnpsFZlaAUUmAYIUXUmEAR0AwN6S7ln6bz
+58x5z/M853ne83qfDvTT+w9O7eluWBqZ5t/RWuv0e314dE0JIVpkF2EsIQrw7IY3
+y9juMBWoMmEkAEkBSYEYQlpmGEhytMRjEjGKACVSFmiEMBBlhiRplkUiYngKKIpM
+QYgYUhSATPIyAoiIIxTVnIttVptqdmiyApA0QU6ECslhWhKhyGJFUUhMasKKzCJA
+MRRgeI2YZ7H7GJo5EdlxvGrRatrBNGvvf/BPfAMS0lgmWQ4rAkvRFEYUBygWSIyA
+MUNKGLFIwQCIWj4kACDzrKxlAALNAhliBjOzvp3/yCmAlBBkREjKCs8BUSQpHvEs
+LQDNASn4gHZsM6NCrKFtqlTgklEhURpHaNUiVcK+xvqS/AcRL1kKNa7VZnFYJMtm
+7SbP4bAafUSHy+pDbsWi6V8Nk6iaZa2NGqEI2+yqxUwYSQ0pOVSfKMkIJMcKkKXi
+CFxsVW3YpPoQLM9BoC3fM7hIk+REngYMTSm8CCDPaX8hSIokkSRGnCDQWEAQcgJH
+QwQViga0rCCR4xCHAGYoTEHCl2qL2UIYoWYT5WqSdjXXjBxOGyZKz7S+GeTnr/eb
+owvwjZefPsTwZOjMqsHPe+BuTUD5JwMrbBWeg72mQ9XL+tY/TEy9trMiLPPLjYr/
+0MQLxy9/H3b/0Gum0oOFq08v/jO87JLyqMpxatOt0WMnvA/cKbuRd97hbe0DfQ1b
+XCuXHNk1Ovb2w+zWfGJBzEB1c/vc6Y40Z6S+2nuzYefWntBIa+ZUso4NcLvig6zv
+jxlfdsaOf1ZZ/65ue8/azvzLw55X7yT1nOqpcxV+NV4cEfV5Tmh92/4K3fRgiy6x
+t88da39pw7qJXOfjRSdjnv+gaZX9Y/O++elDa3ZciHZXRhmYimUR7p5Pn4omT5Sv
+DRmoEumae9nRmTHPXmz7ojujHBqOfBhy+52QtkXnZo5m9I9cnIxesAl+y7v7nsup
+7Qj5ZSqJHsuPsgTu4v/onjcxfKf59oNrjS05q4p7W368P9w8MnGvqobtir67cUnX
+N56S9XNuJqzccx4+MzPSn1FW8GhwMkv3U+grdUFgf72zgx1M3rvBZqitidiWMDNQ
+tyJsX1PS0ube9rBbqxPsAfOvW8XKxLELsVcC3zKNjCw//B1MTWMSF045c45e2Zty
+9kZ6ckNQizM1L3hy/KOCM6wQn3+p77S+9cVu9txf16/2h98Yazq/fO7PnY1VZ8tW
+tXV+7bG7ukozj59sjNie+fs69vHu5PfKjMd+GPrV+lv1G8GelCx7+mKiN8+QvPDA
+dHZWjNejb9xxNTzY/jcXlco3
+=hc3u
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rickydam
+
+==================================================================
