@@ -1,0 +1,81 @@
+==================================================================
+httpskeybase.iorickydam
+--------------------------------------------------------------------
+
+I hereby claim
+
+   I am an admin of httprickydam.com
+   I am rickydam (httpskeybase.iorickydam) on keybase.
+   I have a public key with fingerprint 90C8 3D6B 8F16 E3CB 8B5E  FFF1 E1F9 8FD5 A024 2047
+
+To do so, I am signing this object
+
+{
+    body {
+        key {
+            eldest_kid 0120cf8e883d448163c7e1a4f98c1d93aae0bd411355aba4720ffd288a41b90d17da0a,
+            fingerprint 90c83d6b8f16e3cb8b5efff1e1f98fd5a0242047,
+            host keybase.io,
+            key_id e1f98fd5a0242047,
+            kid 010183ed156ef95232ea260250c49ee41cea5afe00b0cfa900d75d55a09350d8e4e40a,
+            uid 0f01ca84b81df760bb127a753901f919,
+            username rickydam
+        },
+        revoke {
+            sig_ids [
+                a3e28916247b88b74e1ca2d31c440ba528fe05ac101ae2d3867d7ffad1cdf3f80f
+            ]
+        },
+        service {
+            hostname rickydam.com,
+            protocol http
+        },
+        type web_service_binding,
+        version 1
+    },
+    ctime 1491660205,
+    expire_in 157680000,
+    prev e84c951e5fa2bdc7ac793e32af6a4e695b7be3beffae059bf1013b4b16b95004,
+    seqno 9,
+    tag signature
+}
+
+which yields the signature
+
+-----BEGIN PGP MESSAGE-----
+Version Keybase OpenPGP v2.0.68
+Comment httpskeybase.iocrypto
+
+yMOoAnicbZJtUFRVGMcXsmi3UALHrEh37pCgEZ5z3+8SYaCzOIBGOiPGy3bOPefi
+5WV3210QcMAIGjAhNGcYJoxQCxzNNPFlKBSNHBgZaXRAY8qgRMcyKmtqdNToLOWX
+pvPlzjn3yf3PyRfgDFlvId7ebRzti7M6QodOlVqyr08d2MRhD6ngHJu4Ijrz
+ocWE+gOuIpNwDg5AHuiGSlVVIKKoQlnQFQqRaGiqDokmIEQBJiKEgiQhjESFB4ZB
+eFVFIsQaIFAhCCAunjNMdwH1eX2mO8BsNaAzQxmrBpSpoGMVS9QwDEghMzaIhAAv
+8kBUWOAGjz8YweAw8tME08Pe2MU1gc+vvcAKoCJVCSqaFJvMBTxMuAl4AuapSK
+UKdIQgYFALP6kAYAUSTCagCaIAGiUpGKM9yl9gZAOpIFbEKiaHIAGPIK0iRBA0w
+AqgFhX7qc6MSytQ+Uy+qIKiEq4rnfLTMU0SDffWbBQzazzlyOCRQXtWgzIsKVlWs
+iJS580SAuigCjCReZWQS0lkRiLJ3VVaIYhiIQJ0YgqECg8tj3ixjmanPmAe79Js
+CbqnhHF5fZ6ARcUsz8bAgGvIwgVqPAGlRspdv3r4cKmm7ARsYAy6vObHjfngEyp
+B8ygKRQZLWsfkOI5Wu41fdRlBhWSIquAnWAaWhYciCrqmgSpZCAeE11BuqIJVOCR
+ISORypqEFUwFzIbNFkfSsMFKFLCIoYw1CQCRC1b1mtvDOTSGiQqYJeubGwVKfZSr
++vx07ixLiM3y0IOhwdW12KwR9xc6p2nOtHPbqrHqfGdm40Q9+Vm7GPl99f6iwMIL
+f9UNy7WOhr7Nvx9xqE9FNAcAutDzFe3vuveaAri2kKabuXkuYdWZ35mH2qMelw
+3Gjf8enEumbnys432s6k53HvVfLLmqn7Axw5aO3Oqxl6fMv1iIfPDayw5b7S0nV2
+H4zLutKJXi4NDZx7K+PNbQeLU1zjH95das86VNAa8Ss1V04l11tsz7jPCbBhj3D
+V9cUHv6WvY8y4tjg3Ghzobojfk1y2eKsytSaejNsbUyrCrFEt8SNLDibaj3zK
+3bhsDc9Km7Wy7p7eHl9TsoTQ61i0ktndnxUTaM+GXny6Ou9rQuzb5HJ85vfFqL6
++rYfnb1sKdT7U+PdnYEb031tLgXnXlQmFkeGqk2f7Z1hOjO5Orr1V4Fgk90fXC
+2sG4mz3PnqxKh6l3RzPiyaO1v3zpUwpHXHY9pCtxbvnhydGe+rblS680ZBXMXH
+usx1E2BiQf6+XSLWOpo7n2kNWJsuz7e3pPVFuJJiVowfbqypfm647tKCCan2hd7u
+kfdPOjNrXfK8Uw0tJ4p3Di1KWPGtLexOy0BpZf75G1e3GNuPz85J7T3glcf6cZm
+VobO3V51e86sxdJX99b2d06ub7YVjndU94a275Eix0oTtv949lrF6fNCw17Lpa
+Nt5ubUsaunOpPWbx6kOPTGTcSSZrgabcddU
+=X5No
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here httpskeybase.iorickydam
+
+==================================================================
