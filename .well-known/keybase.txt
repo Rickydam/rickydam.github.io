@@ -21,6 +21,11 @@ To do so, I am signing this object:
             "uid": "0f01ca84b81df760bb127a753901f919",
             "username": "rickydam"
         },
+        "revoke": {
+            "sig_ids": [
+                "57e6bb8b4154ce29339e0e23127cd6b7757d6ae33072ab713be04698515e0a2b0f"
+            ]
+        },
         "service": {
             "hostname": "rickydam.com",
             "protocol": "http:"
@@ -28,10 +33,10 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1491659852,
+    "ctime": 1491660816,
     "expire_in": 157680000,
-    "prev": "6b730432f7b087690c9cfcc11ea6993e9a8869638a8f2303dfab66a6a0e42e28",
-    "seqno": 8,
+    "prev": "bd0b5c826548f41f2c680b9ee5bda0c54845e5004578090623563260ef91adab",
+    "seqno": 16,
     "tag": "signature"
 }
 
@@ -41,30 +46,31 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.68
 Comment: https://keybase.io/crypto
 
-yMNvAnicbVJtUFRVGOZrZdgsVwekRkzmosAYA+d+n7uQDpQg4OQIRuWU67n3ngsX
-ZHfdD2RFiiIZlUKyoCHFQG1LHcd2SgwnpsFZlaAUUmAYIUXUmEAR0AwN6S7ln6bz
-58x5z/M853ne83qfDvTT+w9O7eluWBqZ5t/RWuv0e314dE0JIVpkF2EsIQrw7IY3
-y9juMBWoMmEkAEkBSYEYQlpmGEhytMRjEjGKACVSFmiEMBBlhiRplkUiYngKKIpM
-QYgYUhSATPIyAoiIIxTVnIttVptqdmiyApA0QU6ECslhWhKhyGJFUUhMasKKzCJA
-MRRgeI2YZ7H7GJo5EdlxvGrRatrBNGvvf/BPfAMS0lgmWQ4rAkvRFEYUBygWSIyA
-MUNKGLFIwQCIWj4kACDzrKxlAALNAhliBjOzvp3/yCmAlBBkREjKCs8BUSQpHvEs
-LQDNASn4gHZsM6NCrKFtqlTgklEhURpHaNUiVcK+xvqS/AcRL1kKNa7VZnFYJMtm
-7SbP4bAafUSHy+pDbsWi6V8Nk6iaZa2NGqEI2+yqxUwYSQ0pOVSfKMkIJMcKkKXi
-CFxsVW3YpPoQLM9BoC3fM7hIk+REngYMTSm8CCDPaX8hSIokkSRGnCDQWEAQcgJH
-QwQViga0rCCR4xCHAGYoTEHCl2qL2UIYoWYT5WqSdjXXjBxOGyZKz7S+GeTnr/eb
-owvwjZefPsTwZOjMqsHPe+BuTUD5JwMrbBWeg72mQ9XL+tY/TEy9trMiLPPLjYr/
-0MQLxy9/H3b/0Gum0oOFq08v/jO87JLyqMpxatOt0WMnvA/cKbuRd97hbe0DfQ1b
-XCuXHNk1Ovb2w+zWfGJBzEB1c/vc6Y40Z6S+2nuzYefWntBIa+ZUso4NcLvig6zv
-jxlfdsaOf1ZZ/65ue8/azvzLw55X7yT1nOqpcxV+NV4cEfV5Tmh92/4K3fRgiy6x
-t88da39pw7qJXOfjRSdjnv+gaZX9Y/O++elDa3ZciHZXRhmYimUR7p5Pn4omT5Sv
-DRmoEumae9nRmTHPXmz7ojujHBqOfBhy+52QtkXnZo5m9I9cnIxesAl+y7v7nsup
-7Qj5ZSqJHsuPsgTu4v/onjcxfKf59oNrjS05q4p7W368P9w8MnGvqobtir67cUnX
-N56S9XNuJqzccx4+MzPSn1FW8GhwMkv3U+grdUFgf72zgx1M3rvBZqitidiWMDNQ
-tyJsX1PS0ube9rBbqxPsAfOvW8XKxLELsVcC3zKNjCw//B1MTWMSF045c45e2Zty
-9kZ6ckNQizM1L3hy/KOCM6wQn3+p77S+9cVu9txf16/2h98Yazq/fO7PnY1VZ8tW
-tXV+7bG7ukozj59sjNie+fs69vHu5PfKjMd+GPrV+lv1G8GelCx7+mKiN8+QvPDA
-dHZWjNejb9xxNTzY/jcXlco3
-=hc3u
+yMOtAnicbZJ7UBVVHMcvEgQoI0Jl0EPYoShEOmd3zz4o5OEDDcYGKbTBvJ3dPQvL
+hXvx3gtCyBQxo0FTDNPQZbBEkHwQSSRUQzWKAjlgkTRmDI8BxxTBB0WaSGTnUv7T
+dP7ZOWe/v8/v+3t0+Xua/DzGZyvP7Q8PTfLo65zJN22dmA4oZhSbVsTEFDMWsvAh
+ORpxOM0WQ2NiGABZoOoSkSRO43kJCpwqEoh5XZZUqMkcxgQoGg8hhxBWMC+yQNc1
+VpIwDxUZaFDUMMBMFKMb1kxiz7MbVifFykClQEGRdCgQTlUkBRFd1yGBFKxrCAOW
+ZwEv0sAsm8MdQc0p2EGiDRt9oxfzgr3/0d/zDaDEEQ0igegyYjmWYFYALAIqLxPC
+Q5VghHUCgELrwzIAmog0WgOQOQQ0ifCEX/Cd/w9OB1DFEq9IUNNFASgKZEUsIk4G
+1AGU3UIHsVtxLqFqu6FaijScy5REMXZSYLMQd18dRiY17WBiMhgkEkGhRfMQ8Sph
+ZY6TCSAsR6Eq7YooIlETMOE4ILJYESGnEMALsoQgIgCzCtCZVyibZiww1AW4u0v/
+yR6t2nKprzy7zWlTbTn0T5bTmRfjNuUsynMrdxLF/C/DrBhWjY6IBhQQu8OwWZkY
+SJWq03BDIS9DQQB0/lEMKcwz7MRsuBVIFCRAjzsNKaBIRQMKUiVWQLyk81BnVSpQ
+aMeRQhdBpa88IggAHokSkIHAckjg6GDokCDWsMK4q9phtVE2TeXEmZRJG2fFznw7
+YUpOdm67z+ThZ/L2WuTeXZOfb8C9jV7/RoCpKXDx5jeLb+5bHvtl9nExuc3WUpnV
+d3lxhnB4SULSoo7PvV2dXjXt43d3zWwp3F7SuXTZyu5S1eJC475L0vPY2vA11VWP
+v2hnT5/KwPentUY030zwcIVJyGxfzTd+Evpr3Hyd95VStXj3VLOX96mPnjr3/O2G
+ySEj8ZF3xmO3xSfUbyirnYoc/KHUX0rtH2ycubZqriW04/R06eTPOeW36nq8piuM
+gT9HT/xY5nL1h+9pqQz9kNmU9kuf6LG2YMR/tnVsqkKOmNrVE/LN2Yf+EJqeSyzK
+ST8RdnviyhORw1Mr1vf/lsjPLe0djcap0S0bXmfKrXHT2VeDLCG1Q4e4gXafwLeD
+r862DbfXv/tW68bH2gMvNu11Ts5GBb/63YWiI4mlrr0Hh8aOjb4XfYAN+atK7j30
+xcf755/s+N3iU9U/MtQwXX0AwAs/jew7GZpSWf2+942wo2sDhsvmfT7FvfGD1aby
+l9OSgrudGah84OKDadURw5O+tx4ujPk2tnt+MMzst25ZZNDEypTlVVtSD1eZv+49
+3/NM16bso2MH4613toZYXmoKv9E9mBuSfKexrjGspmau54VjwRqfsu7MmUc7va4H
+fcVU5BxxeSnVu6uOqyVc15rASGebJf2aZ8X3l1fFjW/M+Gz19R3+mufT42f9U7Zf
+Oj/Y/Nrd6QcaVnwQ7n+pPtZ7siss+dnNOyf/Bvi53uw=
+=mbL2
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
