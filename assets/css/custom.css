@@ -97,6 +97,9 @@ hr {
   margin: 5px;
   text-align: left;
 }
+#titus {
+  border: 1px solid lightgray;
+}
 
 /* ---------------- PROJECTS ---------------- */
 .left {
