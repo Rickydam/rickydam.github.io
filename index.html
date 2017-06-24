@@ -13,24 +13,30 @@
   <body ng-controller="stateController">
     <div class="container-fluid">
       <center>
-        <a href="https://github.com/rickydam"><img src="assets/images/github.png" id="github"></a>
-        <a href="https://www.linkedin.com/in/rickydam"><img src="assets/images/linkedin.png" id="linkedin"></a>
-        <a href="http://stackoverflow.com/users/6000010/ricky-dam"><img src="assets/images/stackoverflow.png" id="stackoverflow"></a>
-        <a href="https://keybase.io/rickydam"><img src="assets/images/keybase.png"id="keybase"></a>
+        <a href="https://github.com/rickydam" target="_blank" class="social_icons">
+          <img src="assets/images/github.png" id="github">
+        </a>
+        <a href="https://www.linkedin.com/in/rickydam" target="_blank" class="social_icons">
+          <img src="assets/images/linkedin.png" id="linkedin">
+        </a>
+        <a href="http://stackoverflow.com/users/6000010/ricky-dam" target="_blank" class="social_icons">
+          <img src="assets/images/stackoverflow.png" id="stackoverflow">
+        </a>
+        <a href="https://keybase.io/rickydam" target="_blank" class="social_icons">
+          <img src="assets/images/keybase.png"id="keybase">
+        </a>
         <br><br>
         <button ui-sref="home"><b> Home </b></button>
-        <button ui-sref="projects"><b> Projects </b></button>
         <button ui-sref="resume"><b> Resume PDF </b></button>
         <br><br>
+        <button ui-sref="projects"><b> Projects </b></button>
         <button ui-sref="experience"><b> Experience </b></button>
         <button ui-sref="skills"><b> Skills </b></button>
-        <button ui-sref="hackathons"><b> Hackathons </b></button>
       </center>
       <div ui-view></div>
       <center>
-        <br>
-        <hr>
-        <span class="footerinfo" id="updated"> Information updated: June 9, 2017 </span>
+        <hr id="footerhr">
+        <span class="footerinfo"> Information updated: June 23, 2017 </span>
         <br>
         <span class="footerinfo"> Copyright © Ricky Dam 2017 </span>
       </center>
