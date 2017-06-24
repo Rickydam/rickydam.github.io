@@ -2,11 +2,11 @@
   <head>
     <title> Ricky Dam </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.13/angular.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.0/angular-ui-router.js"></script>
+    <script src="assets/imports/js/angular.js"></script>
+    <script src="assets/imports/js/angular-ui-router.js"></script>
     <script src="controllers/stateController.js"></script>
     <link rel="stylesheet" href="assets/css/custom.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+    <link rel="stylesheet" href="assets/imports/css/SourceSansPro.css">
     <font face="Source Sans Pro">
   </head>
 
@@ -23,16 +23,29 @@
           <img src="assets/images/stackoverflow.png" id="stackoverflow">
         </a>
         <a href="https://keybase.io/rickydam" target="_blank" class="social_icons">
-          <img src="assets/images/keybase.png"id="keybase">
+          <img src="assets/images/keybase.png" id="keybase">
         </a>
-        <br><br>
-        <button ui-sref="home"><b> Home </b></button>
-        <button ui-sref="resume"><b> Resume PDF </b></button>
-        <br><br>
-        <button ui-sref="projects"><b> Projects </b></button>
-        <button ui-sref="experience"><b> Experience </b></button>
-        <button ui-sref="skills"><b> Skills </b></button>
+        <br>
+        <div class="customNavbar">
+          <div class="nav_item" id="home_item">
+            <a ui-sref="home" ui-sref-active="active"> Home </a>
+          </div><!--
+          --><div class="nav_item" id="resume_item">
+            <a ui-sref="resume" ui-sref-active="active"> Resume </a>
+          </div><!--
+          --><div class="nav_item" id="projects_item">
+            <a ui-sref="projects" ui-sref-active="active"> Projects </a>
+          </div><!--
+          --><div class="nav_item" id="experience_item">
+            <a ui-sref="experience" ui-sref-active="active"> Experience </a>
+          </div><!--
+          --><div class="nav_item" id="skills_item">
+            <a ui-sref="skills" ui-sref-active="active"> Skills </a>
+          </div>
+          <ul>
+        </div>
       </center>
+      <br>
       <div ui-view></div>
       <center>
         <hr id="footerhr">
