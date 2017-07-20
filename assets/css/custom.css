@@ -263,13 +263,14 @@ hr {
   display: inline-block;
   text-align: left;
   vertical-align: top;
+  margin-top: -8px;
 }
 .theLine {
   width: 300px;
   max-width: 100%;
   border: 1px solid lightgray;
 }
-#OperatingSystems {
+.twoWords {
   width: 200px;
   margin-left: -70px;
 }
@@ -279,7 +280,7 @@ hr {
 }
 
 @media only screen and (max-width: 400px) {
-  #OperatingSystems {
+  .twoWords {
     width: 130px;
     margin-left: 0px;
   }
