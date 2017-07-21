@@ -156,6 +156,7 @@ hr {
   display: inline-block;
   margin-left: 20%;
   float: left;
+  height: 300px;
 }
 .right {
   width: 30%;
@@ -168,20 +169,15 @@ hr {
   padding-bottom: 350px;
 }
 .theProjectImg {
-  width: 100%;
-}
-#stopwatch {
-  width: 70%;
-}
-#scrapy {
-  width: 70%;
-}
-#calculator {
-  width: 70%;
+  max-width: 100%;
+  max-height: 100%;
 }
 #projectshr {
   width: 150px;
   margin-top: -20px;
+}
+#stopwatchLeft {
+  height: 400px;
 }
 .addBorder {
   border: 1px solid black;
@@ -213,6 +209,7 @@ hr {
   .left {
     width: 100%;
     margin-left: 0px;
+    height: auto;
   }
   .right {
     width: 100%;
