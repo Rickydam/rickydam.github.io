@@ -16,7 +16,7 @@ button {
   padding-bottom: 5px;
 }
 .footerinfo {
-  color: #AAAAAA;
+  color: #8C8C8C;
 }
 #heart {
   color: red;
@@ -126,24 +126,24 @@ hr {
   margin-left: -10px;
 }
 .workcontainer {
-  width: 330px;
-  margin-bottom: 200px;
+  width: 500px;
+  max-width: 100%;
+  margin-bottom: 10px;
   padding-bottom: 5px;
 }
 .worklogo {
   width: 80px;
 }
 .worklogo_container {
-  width: 80px;
+  width: 25%;
+  min-width: 25%;
   display: inline-block;
-  float: left;
-  margin: 5px;
+  vertical-align: top;
 }
 .worktext {
-  width: 230px;
+  width: 70%;
+  min-width: 70%;
   display: inline-block;
-  float: right;
-  margin: 5px;
   text-align: left;
 }
 #titus {
@@ -246,39 +246,21 @@ hr {
 }
 
 /* ----------------- SKILLS ----------------- */
-.mainContainer {
-  width: 100%;
-}
-.leftContainer {
-  width: 130px;
-  display: inline-block;
-  text-align: right;
-  vertical-align: top;
-}
-.rightContainer {
-  width: 130px;
-  display: inline-block;
-  text-align: left;
-  vertical-align: top;
-  margin-top: -8px;
-}
-.theLine {
-  width: 300px;
-  max-width: 100%;
-  border: 1px solid lightgray;
-}
-.twoWords {
-  width: 200px;
-  margin-left: -70px;
-}
 #skillshr {
   width: 100px;
   margin-top: -20px;
 }
 
-@media only screen and (max-width: 400px) {
-  .twoWords {
-    width: 130px;
-    margin-left: 0px;
-  }
+#mySkills td {
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+#mySkills tr td:first-child {
+  width: 310px;
+  text-align: right;
+}
+
+#mySkills tr td:last-child {
+  width: 570px;
 }
