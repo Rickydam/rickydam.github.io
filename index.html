@@ -1,60 +1,46 @@
-<html ng-app="theApp">
-  <head>
-    <title> Ricky Dam </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="I love Mobile Development. I'm also a 4th year Computer Engineering student at Carleton University, but that's on the side. It's not MobileDev.">
-    <link rel="stylesheet" href="assets/css/custom.css">
-    <link rel="stylesheet" href="assets/imports/css/SourceSansPro.css">
-    <font face="Source Sans Pro">
-  </head>
+<html lang="en">
+    <head>
+        <title>Ricky Dam</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Ricky Dam. Enjoys Web Development. BEng in Computer Engineering. Junior Full Stack Web Developer.">
+        <link rel="stylesheet" href="assets/css/index.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="ricky">
+                <a href="https://github.com/rickydam" target="_blank" class="social_icons">
+                    <img src="assets/images/github.png" id="github" alt="github link">
+                </a>
+                <a href="https://www.linkedin.com/in/rickydam" target="_blank" class="social_icons">
+                    <img src="assets/images/linkedin.png" id="linkedin" alt="linkedin link">
+                </a>
+                <a href="http://stackoverflow.com/users/6000010/ricky-dam" target="_blank" class="social_icons">
+                    <img src="assets/images/stackoverflow.png" id="stackoverflow" alt="stackoverflow link">
+                </a>
+            </div>
 
-  <body ng-controller="stateController">
-    <div class="container-fluid">
-      <center>
-        <a href="https://github.com/rickydam" target="_blank" class="social_icons">
-          <img src="assets/images/github.png" id="github">
-        </a>
-        <a href="https://www.linkedin.com/in/rickydam" target="_blank" class="social_icons">
-          <img src="assets/images/linkedin.png" id="linkedin">
-        </a>
-        <a href="http://stackoverflow.com/users/6000010/ricky-dam" target="_blank" class="social_icons">
-          <img src="assets/images/stackoverflow.png" id="stackoverflow">
-        </a>
-        <a href="https://keybase.io/rickydam" target="_blank" class="social_icons">
-          <img src="assets/images/keybase.png" id="keybase">
-        </a>
-        <br>
-        <div class="customNavbar">
-          <div class="nav_item" id="home_item">
-            <a ui-sref="home" ui-sref-active="active"> Home </a>
-          </div><!--
-          --><div class="nav_item" id="resume_item">
-            <a ui-sref="resume" ui-sref-active="active"> Resume </a>
-          </div><!--
-          --><div class="nav_item" id="projects_item">
-            <a ui-sref="projects" ui-sref-active="active"> Projects </a>
-          </div><!--
-          --><div class="nav_item" id="experience_item">
-            <a ui-sref="experience" ui-sref-active="active"> Experience </a>
-          </div><!--
-          --><div class="nav_item" id="skills_item">
-            <a ui-sref="skills" ui-sref-active="active"> Skills </a>
-          </div>
+            <br>
+
+            <span>My name is Ricky Dam.</span>
+            <span>I enjoy web development.</span>
+            <span>I love puppies & dogs.</span>
+
+            <br>
+
+            <img src="assets/images/me.jpg" width="180" id="me">
+
+            <br>
+
+            <span><strong>BEng in Computer Engineering</strong></span>
+            <span>Carleton University | Ottawa, ON</span>
+            <span>Sept 2014 - Apr 2019</span>
+
+            <br>
+
+            <span><strong>Junior Full Stack Web Developer</strong></span>
+            <span>CybernetIQ | Ottawa, ON</span>
+            <span>May 2019 - Present</span>
         </div>
-      </center>
-      <br>
-      <div ui-view></div>
-      <center>
-        <hr id="footerhr">
-        <span class="footerinfo"> Information updated: February 11, 2019 </span>
-        <br>
-        <span class="footerinfo"> Copyright © Ricky Dam 2019 </span>
-      </center>
-    </div>
-  </body>
-  <footer>
-    <script src="assets/imports/js/angular.js"></script>
-    <script src="assets/imports/js/angular-ui-router.js"></script>
-    <script src="controllers/stateController.js"></script>
-  </footer>
+    </body>
 </html>

@@ -1,0 +1,31 @@
+body {
+    font-family: helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.ricky {
+    flex-direction: row;
+}
+
+a.social_icons {
+    text-decoration: none;
+}
+
+#github {
+    width: 38px;
+}
+
+#linkedin {
+    width: 40px;
+}
+
+#stackoverflow {
+    width: 40px;
+}
