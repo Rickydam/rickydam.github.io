@@ -10,22 +10,30 @@ body {
     flex-direction: column;
 }
 
-.ricky {
-    flex-direction: row;
+.social_icons_container {
+    display: flex;
+    align-items: center;
 }
 
 a.social_icons {
     text-decoration: none;
+    display: inline-block;
 }
 
 #github {
     width: 38px;
+    padding-right: 2px;
 }
 
 #linkedin {
     width: 40px;
+    padding-left: 2px;
 }
 
 #stackoverflow {
-    width: 40px;
+    width: 44px;
+}
+
+#gitlab {
+    width: 32px;
 }
