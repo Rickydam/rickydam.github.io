@@ -12,24 +12,31 @@ body {
     margin: auto;
 }
 
+.section {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
 .social_icons_container {
-    display: flex;
     align-items: center;
+    display: flex;
+    width: 100%;
 }
 
 a.social_icons {
-    text-decoration: none;
     display: inline-block;
+    text-decoration: none;
 }
 
 #github {
-    width: 38px;
     padding-right: 2px;
+    width: 38px;
 }
 
 #linkedin {
-    width: 40px;
     padding-left: 2px;
+    width: 40px;
 }
 
 #stackoverflow {
