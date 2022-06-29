@@ -1,1 +1,1 @@
-# https://rickydam.com/
+# https://rickydam.github.io/
